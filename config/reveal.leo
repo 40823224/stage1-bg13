@@ -211,38 +211,38 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818170909.1">&lt;section&gt;
 
    &lt;p&gt;&lt;img alt="" height="470" src="https://40823223.github.io/stage1-bg13/images/第二版.png" width="470"/&gt;&lt;/p&gt; 
-   &lt;h3&gt;組合圖&lt;/h3&gt;
+   &lt;h5&gt;組合圖&lt;/h5&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818170953.1">&lt;section&gt;
    
    &lt;p&gt;&lt;img alt="" height="500" src="https://40823223.github.io/stage1-bg13/images/0本體.PNG" width="1000"/&gt;&lt;/p&gt;
-   &lt;h3&gt;本體&lt;/h2&gt;
+   &lt;h5&gt;本體&lt;/h5&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818171010.1">&lt;section&gt;
    
    &lt;p&gt;&lt;img alt="" height="630" src="https://40823223.github.io/stage1-bg13/images/0輪子.PNG" width="700"/&gt;&lt;/p&gt;
-   &lt;h3&gt;輪子&lt;/h3&gt;
+   &lt;h5&gt;輪子&lt;/h5&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818194812.1">&lt;section&gt;
-   &lt;h2&gt;第二版&lt;/h2&gt;
+   &lt;h3&gt;第二版&lt;/h3&gt;
      @others
 &lt;/section&gt;
 
 </t>
 <t tx="leo.20200818194908.1">&lt;section&gt;
     
-   &lt;p&gt;&lt;img alt="" height="500" src="https://40823223.github.io/stage1-bg13/images/組合圖.PNG" width="1000"/&gt;&lt;/p&gt; 
-   &lt;h3&gt;組合圖&lt;/h3&gt;
+   &lt;p&gt;&lt;img alt="" height="500" src="https://40823223.github.io/stage1-bg13/images/組合一.PNG" width="1000"/&gt;&lt;/p&gt; 
+   &lt;h5&gt;組合圖&lt;/h5&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818194933.1">&lt;section&gt;
 
               &lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/28EcMEL3JRE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;p&gt;
-&lt;h3&gt;第二版模擬&lt;/h3&gt;
-  &lt;h7&gt;重新設計了作動方式，一樣是使用連桿，但這次是把下壓的連桿另一端改成一個旋轉軸，再將軸連接一個齒輪，並將輪子上的軸也加裝了齒輪，兩個齒輪碰到後，驅動了輪子旋轉。&lt;/h7&gt;
+&lt;h5&gt;第二版模擬&lt;/h5&gt;
+  &lt;h8&gt;重新設計了作動方式，一樣是使用連桿，但這次是把下壓的連桿另一端改成一個旋轉軸，再將軸連接一個齒輪，並將輪子上的軸也加裝了齒輪，兩個齒輪碰到後，驅動了輪子旋轉。&lt;/h8&gt;
         &lt;/section&gt;</t>
 <t tx="leo.20200818195105.1">&lt;section&gt;
     @others
@@ -287,7 +287,7 @@ vertical: body pane on the botton</t>
 
 &lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/LZOSuJbeLGc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;p&gt;
 
-&lt;h3&gt;第一版模擬&lt;/h3&gt;
+&lt;h5&gt;第一版模擬&lt;/h5&gt;
 &lt;h7&gt;四連桿機構，但因設計連桿不良失敗，因設計的四連桿機構中的曲柄搖桿機構須要找到兩個固定點，但固定點只有辦法設定一個，另一個需在轉動的齒輪上，若轉動的齒輪變成固定端將無法作動，故此次設計失敗。&lt;/h7&gt;
         &lt;/section&gt;</t>
 </tnodes>
