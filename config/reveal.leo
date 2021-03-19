@@ -208,10 +208,11 @@ vertical: body pane on the botton</t>
     @others
 &lt;/div&gt;</t>
 <t tx="leo.20200818170328.1">&lt;section&gt;
-   
-    &lt;h2&gt;人力軌道車&lt;/h2&gt;
+    &lt;h1&gt;CD2021 協同產品設計實習&lt;/h1&gt;
+    &lt;h2&gt;stage1-bg13&lt;/h2&gt;
+    &lt;h3&gt;人力軌道車&lt;/h3&gt;
     &lt;p&gt;
-        &lt;small&gt;Created by 40823223梁恆誌、40823224蕭君亦&lt;/small&gt;
+        &lt;small&gt;Created by &lt;a href="https://github.com/40823223/cd2021"&gt;40823223梁恆誌&lt;/a&gt; and &lt;a href="https://github.com/40823224/cd2021"&gt;40823224蕭君亦&lt;/a&gt;&lt;/small&gt;
     &lt;/p&gt;
 &lt;/section&gt;
 
