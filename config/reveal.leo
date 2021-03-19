@@ -228,6 +228,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200818170636.1">&lt;section&gt;
     &lt;h2&gt;第一版&lt;/h2&gt;
+    @others
 &lt;/section&gt;
 
 </t>
