@@ -205,7 +205,6 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200818170636.1">&lt;section&gt;
     &lt;h2&gt;第一版&lt;/h2&gt;
-    @others
 &lt;/section&gt;
 
 </t>
@@ -229,12 +228,10 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200818194812.1">&lt;section&gt;
    &lt;h3&gt;第二版&lt;/h3&gt;
-     @others
 &lt;/section&gt;
 
 </t>
 <t tx="leo.20200818194908.1">&lt;section&gt;
-    
    &lt;p&gt;&lt;img alt="" height="574" src="https://40823223.github.io/stage1-bg13/images/組合一.PNG" width="672"/&gt;&lt;/p&gt; 
    &lt;h5&gt;組合圖&lt;/h5&gt;
 &lt;/section&gt;
@@ -254,7 +251,7 @@ vertical: body pane on the botton</t>
 &lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/LZOSuJbeLGc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;p&gt;
 
 &lt;h5&gt;第一版模擬&lt;/h5&gt;
-&lt;h7&gt;四連桿機構，但因設計連桿不良失敗，因設計的四連桿機構中的曲柄搖桿機構須要找到兩個固定點，但固定點只有辦法設定一個，另一個需在轉動的齒輪上，若轉動的齒輪變成固定端將無法作動，故此次設計失敗。&lt;/h7&gt;
+&lt;h9&gt;四連桿機構，但因設計連桿不良失敗，因設計的四連桿機構中的曲柄搖桿機構須要找到兩個固定點，但固定點只有辦法設定一個，另一個需在轉動的齒輪上，若轉動的齒輪變成固定端將無法作動，故此次設計失敗。&lt;/h9&gt;
         &lt;/section&gt;</t>
 <t tx="leo.20210319114036.1">&lt;section&gt;
    &lt;h3&gt;心得&lt;/h3&gt;
@@ -262,37 +259,37 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;</t>
 <t tx="leo.20210319114647.1">&lt;section&gt;
     
-   &lt;p&gt;&lt;img alt="" height="639" src="https://40823223.github.io/stage1-bg13/images/本體.PNG" width="931"/&gt;&lt;/p&gt; 
+   &lt;p&gt;&lt;img alt="" height="339" src="https://40823223.github.io/stage1-bg13/images/本體.PNG" width="631"/&gt;&lt;/p&gt; 
    &lt;h5&gt;本體&lt;/h5&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210319114658.1">&lt;section&gt;
     
-   &lt;p&gt;&lt;img alt="" height="672" src="https://40823223.github.io/stage1-bg13/images/輪子.PNG" width="627"/&gt;&lt;/p&gt; 
+   &lt;p&gt;&lt;img alt="" height="472" src="https://40823223.github.io/stage1-bg13/images/輪子.PNG" width="427"/&gt;&lt;/p&gt; 
    &lt;h5&gt;輪子&lt;/h5&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210319114703.1">&lt;section&gt;
     
-   &lt;p&gt;&lt;img alt="" height="639" src="https://40823223.github.io/stage1-bg13/images/拉桿.PNG" width="931"/&gt;&lt;/p&gt; 
+   &lt;p&gt;&lt;img alt="" height="339" src="https://40823223.github.io/stage1-bg13/images/拉桿.PNG" width="631"/&gt;&lt;/p&gt; 
    &lt;h5&gt;拉桿&lt;/h5&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210319114706.1">&lt;section&gt;
     
-   &lt;p&gt;&lt;img alt="" height="702" src="https://40823223.github.io/stage1-bg13/images/旋轉接頭.PNG" width="402"/&gt;&lt;/p&gt; 
+   &lt;p&gt;&lt;img alt="" height="602" src="https://40823223.github.io/stage1-bg13/images/旋轉接頭.PNG" width="302"/&gt;&lt;/p&gt; 
    &lt;h5&gt;旋轉接頭&lt;/h5&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210319115217.1">&lt;section&gt;
     
-   &lt;p&gt;&lt;img alt="" height="716" src="https://40823223.github.io/stage1-bg13/images/旋轉轉接.PNG" width="294"/&gt;&lt;/p&gt; 
-   &lt;h5&gt;旋轉轉接&lt;/h5&gt;
+   &lt;p&gt;&lt;img alt="" height="516" src="https://40823223.github.io/stage1-bg13/images/輪桿轉接.PNG" width="94"/&gt;&lt;/p&gt; 
+   &lt;h5&gt;輪桿轉接&lt;/h5&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210319115327.1">&lt;section&gt;
     
-   &lt;p&gt;&lt;img alt="" height="712" src="https://40823223.github.io/stage1-bg13/images/連桿.PNG" width="1118"/&gt;&lt;/p&gt; 
+   &lt;p&gt;&lt;img alt="" height="220" src="https://40823223.github.io/stage1-bg13/images/連桿.PNG" width="600"/&gt;&lt;/p&gt; 
    &lt;h5&gt;連桿&lt;/h5&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210319115333.1">&lt;section&gt;
     
-   &lt;p&gt;&lt;img alt="" height="712" src="https://40823223.github.io/stage1-bg13/images/輪軸.PNG" width="1118"/&gt;&lt;/p&gt; 
+   &lt;p&gt;&lt;img alt="" height="220" src="https://40823223.github.io/stage1-bg13/images/輪軸.PNG" width="600"/&gt;&lt;/p&gt; 
    &lt;h5&gt;輪軸&lt;/h5&gt;
 &lt;/section&gt;</t>
 </tnodes>
