@@ -234,7 +234,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200818194908.1">&lt;section&gt;
     
-   &lt;p&gt;&lt;img alt="" height="500" src="https://40823223.github.io/stage1-bg13/images/組合圖.png" width="1000"/&gt;&lt;/p&gt; 
+   &lt;p&gt;&lt;img alt="" height="500" src="https://40823223.github.io/stage1-bg13/images/組合圖.PNG" width="1000"/&gt;&lt;/p&gt; 
    &lt;h3&gt;組合圖&lt;/h3&gt;
 &lt;/section&gt;
 </t>
