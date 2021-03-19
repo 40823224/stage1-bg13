@@ -28,16 +28,17 @@
 </v>
 <v t="leo.20200818194812.1"><vh>slide 4</vh>
 <v t="leo.20200818194908.1"><vh>slide 4-1</vh></v>
-<v t="leo.20200818194933.1"><vh>slide 4-2</vh></v>
+<v t="leo.20210319114647.1"><vh>slide 4-2</vh></v>
+<v t="leo.20210319114658.1"><vh>slide 4-3</vh></v>
+<v t="leo.20210319114703.1"><vh>slide 4-4</vh></v>
+<v t="leo.20210319114706.1"><vh>slide 4-5</vh></v>
+<v t="leo.20210319115217.1"><vh>slide 4-6</vh></v>
+<v t="leo.20210319115327.1"><vh>slide 4-7</vh></v>
+<v t="leo.20210319115333.1"><vh>slide 4-8</vh></v>
+<v t="leo.20200818194933.1"><vh>slide 4-9</vh></v>
 </v>
-<v t="leo.20200818195105.1"><vh>slide 16</vh>
-<v t="leo.20200818195213.1"><vh>slide 16-1</vh></v>
-<v t="leo.20200818195237.1"><vh>slide 16-2</vh></v>
-<v t="leo.20200818195305.1"><vh>slide 16-3</vh></v>
-<v t="leo.20200818195323.1"><vh>slide 16-4</vh></v>
-<v t="leo.20200818195339.1"><vh>slide 16-5</vh></v>
-</v>
-<v t="leo.20200818195800.1"><vh>slide 31</vh></v>
+<v t="leo.20210319114036.1"><vh>slide 5</vh></v>
+<v t="leo.20200818195800.1"><vh>slide 7</vh></v>
 </v>
 </v>
 </v>
@@ -197,7 +198,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818170535.1">&lt;section&gt;
     &lt;h2&gt;設計動機&lt;/h2&gt;
     &lt;p&gt;
-        想了解前人的交通方式，此臺車在早期，常用於搬運物質及傳達消息，解決並且應急人貨運輸需求。而現今常用於懷舊及觀光用途。
+        想要試著了解前人的交通方式，此人力軌道車在早期，常用於搬運物質及傳達消息，解決並且應急人貨運輸需求。而現今人力軌道車仍然保有懷舊、觀光娛樂用途。
     &lt;/p&gt;
 &lt;/section&gt;
 
@@ -234,7 +235,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200818194908.1">&lt;section&gt;
     
-   &lt;p&gt;&lt;img alt="" height="500" src="https://40823223.github.io/stage1-bg13/images/組合一.PNG" width="1000"/&gt;&lt;/p&gt; 
+   &lt;p&gt;&lt;img alt="" height="574" src="https://40823223.github.io/stage1-bg13/images/組合一.PNG" width="672"/&gt;&lt;/p&gt; 
    &lt;h5&gt;組合圖&lt;/h5&gt;
 &lt;/section&gt;
 </t>
@@ -244,41 +245,6 @@ vertical: body pane on the botton</t>
 &lt;h5&gt;第二版模擬&lt;/h5&gt;
   &lt;h8&gt;重新設計了作動方式，一樣是使用連桿，但這次是把下壓的連桿另一端改成一個旋轉軸，再將軸連接一個齒輪，並將輪子上的軸也加裝了齒輪，兩個齒輪碰到後，驅動了輪子旋轉。&lt;/h8&gt;
         &lt;/section&gt;</t>
-<t tx="leo.20200818195105.1">&lt;section&gt;
-    @others
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818195213.1">&lt;section data-background="#dddddd"&gt;
-    &lt;h2&gt;Slide Backgrounds&lt;/h2&gt;
-    &lt;p&gt;
-        Set &lt;code&gt;data-background="#dddddd"&lt;/code&gt; on a slide to change the background color. All CSS color formats are supported.
-    &lt;/p&gt;
-    &lt;a href="#" class="navigate-down"&gt;
-        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Down arrow"&gt;
-    &lt;/a&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20200818195237.1">&lt;section data-background="https://static.slid.es/reveal/image-placeholder.png"&gt;
-    &lt;h2&gt;Image Backgrounds&lt;/h2&gt;
-    &lt;pre&gt;&lt;code class="hljs html"&gt;&amp;lt;section data-background="image.png"&amp;gt;&lt;/code&gt;&lt;/pre&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20200818195305.1">&lt;section data-background="https://static.slid.es/reveal/image-placeholder.png" data-background-repeat="repeat" data-background-size="100px"&gt;
-    &lt;h2&gt;Tiled Backgrounds&lt;/h2&gt;
-    &lt;pre&gt;&lt;code class="hljs html" style="word-wrap: break-word;"&gt;&amp;lt;section data-background="image.png" data-background-repeat="repeat" data-background-size="100px"&amp;gt;&lt;/code&gt;&lt;/pre&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20200818195323.1">&lt;section data-background-video="https://s3.amazonaws.com/static.slid.es/site/homepage/v1/homepage-video-editor.mp4" data-background-color="#000000"&gt;
-    &lt;div style="background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px;"&gt;
-        &lt;h2&gt;Video Backgrounds&lt;/h2&gt;
-        &lt;pre&gt;&lt;code class="hljs html" style="word-wrap: break-word;"&gt;&amp;lt;section data-background-video="video.mp4,video.webm"&amp;gt;&lt;/code&gt;&lt;/pre&gt;
-    &lt;/div&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20200818195339.1">&lt;section data-background="http://i.giphy.com/90F8aUepslB84.gif"&gt;
-    &lt;h2&gt;... and GIFs!&lt;/h2&gt;
-&lt;/section&gt;</t>
 <t tx="leo.20200818195800.1">&lt;section style="text-align: left;"&gt;
     &lt;h1&gt;THE END&lt;/h1&gt;
     &lt;h2&gt;謝謝各位的觀看&lt;/h2&gt;
@@ -290,5 +256,44 @@ vertical: body pane on the botton</t>
 &lt;h5&gt;第一版模擬&lt;/h5&gt;
 &lt;h7&gt;四連桿機構，但因設計連桿不良失敗，因設計的四連桿機構中的曲柄搖桿機構須要找到兩個固定點，但固定點只有辦法設定一個，另一個需在轉動的齒輪上，若轉動的齒輪變成固定端將無法作動，故此次設計失敗。&lt;/h7&gt;
         &lt;/section&gt;</t>
+<t tx="leo.20210319114036.1">&lt;section&gt;
+   &lt;h3&gt;心得&lt;/h3&gt;
+    兩人分組作業跟之前的比較不一樣，要快速的製作出一項專案，期許我們可以對倉儲協同的操作可以更加熟悉，並且可以更加熟練的使用模擬軟體，為之後的4人及8人分組作業打好基礎。
+&lt;/section&gt;</t>
+<t tx="leo.20210319114647.1">&lt;section&gt;
+    
+   &lt;p&gt;&lt;img alt="" height="639" src="https://40823223.github.io/stage1-bg13/images/本體.PNG" width="931"/&gt;&lt;/p&gt; 
+   &lt;h5&gt;本體&lt;/h5&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210319114658.1">&lt;section&gt;
+    
+   &lt;p&gt;&lt;img alt="" height="672" src="https://40823223.github.io/stage1-bg13/images/輪子.PNG" width="627"/&gt;&lt;/p&gt; 
+   &lt;h5&gt;輪子&lt;/h5&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210319114703.1">&lt;section&gt;
+    
+   &lt;p&gt;&lt;img alt="" height="639" src="https://40823223.github.io/stage1-bg13/images/拉桿.PNG" width="931"/&gt;&lt;/p&gt; 
+   &lt;h5&gt;拉桿&lt;/h5&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210319114706.1">&lt;section&gt;
+    
+   &lt;p&gt;&lt;img alt="" height="702" src="https://40823223.github.io/stage1-bg13/images/旋轉接頭.PNG" width="402"/&gt;&lt;/p&gt; 
+   &lt;h5&gt;旋轉接頭&lt;/h5&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210319115217.1">&lt;section&gt;
+    
+   &lt;p&gt;&lt;img alt="" height="716" src="https://40823223.github.io/stage1-bg13/images/旋轉轉接.PNG" width="294"/&gt;&lt;/p&gt; 
+   &lt;h5&gt;旋轉轉接&lt;/h5&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210319115327.1">&lt;section&gt;
+    
+   &lt;p&gt;&lt;img alt="" height="712" src="https://40823223.github.io/stage1-bg13/images/連桿.PNG" width="1118"/&gt;&lt;/p&gt; 
+   &lt;h5&gt;連桿&lt;/h5&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210319115333.1">&lt;section&gt;
+    
+   &lt;p&gt;&lt;img alt="" height="712" src="https://40823223.github.io/stage1-bg13/images/輪軸.PNG" width="1118"/&gt;&lt;/p&gt; 
+   &lt;h5&gt;輪軸&lt;/h5&gt;
+&lt;/section&gt;</t>
 </tnodes>
 </leo_file>
