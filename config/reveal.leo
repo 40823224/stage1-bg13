@@ -217,13 +217,13 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200818170953.1">&lt;section&gt;
    
-   &lt;p&gt;&lt;img alt="" height="500" src="https://40823223.github.io/stage1-bg13/images/0本體.PNG" width="1000"/&gt;&lt;/p&gt;
+   &lt;p&gt;&lt;img alt="" height="250" src="https://40823223.github.io/stage1-bg13/images/0本體.PNG" width="500"/&gt;&lt;/p&gt;
    &lt;h5&gt;本體&lt;/h5&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818171010.1">&lt;section&gt;
    
-   &lt;p&gt;&lt;img alt="" height="630" src="https://40823223.github.io/stage1-bg13/images/0輪子.PNG" width="700"/&gt;&lt;/p&gt;
+   &lt;p&gt;&lt;img alt="" height="430" src="https://40823223.github.io/stage1-bg13/images/0輪子.PNG" width="500"/&gt;&lt;/p&gt;
    &lt;h5&gt;輪子&lt;/h5&gt;
 &lt;/section&gt;
 </t>
