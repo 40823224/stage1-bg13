@@ -241,7 +241,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200818170909.1">&lt;section&gt;
     &lt;h2&gt;第一版&lt;/h2&gt;
-   &lt;p&gt;&lt;img alt="" height="470" src="https://40823223.github.io/stage1-bg13/images/第二版" width="470"/&gt;&lt;/p&gt; 
+   &lt;p&gt;&lt;img alt="" height="470" src="https://40823223.github.io/stage1-bg13/images/第二版.jpg" width="470"/&gt;&lt;/p&gt; 
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818170953.1">&lt;section&gt;
